@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ranveer Kumar</h1>
 <br><br><br><br><br>
 # 💫 About Me:
-Enthusiastic and innovative machine learning developer with hands-on experience in diverse frameworks like TensorFlow and PyTorch. Specialized in creating impactful solutions for applications such as image recognition and natural language processing. Keen on staying abreast of cutting-edge technologies to drive advancements in AI. Demonstrated commitment to excellence through successful projects. Eager to contribute this expertise and passion for innovation to a forward-thinking organization, dedicated to collaborative growth.<br>
+<p align="center">
+Enthusiastic and innovative machine learning developer with hands-on experience in diverse frameworks like TensorFlow and PyTorch. Specialized in creating impactful solutions for applications such as image recognition and natural language processing. Keen on staying abreast of cutting-edge technologies to drive advancements in AI. Demonstrated commitment to excellence through successful projects. Eager to contribute this expertise and passion for innovation to a forward-thinking organization, dedicated to collaborative growth.</p><br>
 <br><br>
 
 
@@ -29,5 +30,6 @@ Enthusiastic and innovative machine learning developer with hands-on experience 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ranveer79&icon=0&color=0)](https://visitcount.itsvg.in)
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
