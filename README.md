@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **Data science**
 - 💬 Ask me about **Data science, Competitive programming ,MySql**
 - 📫 How to reach me **20211468@sbsstc.ac.in**
-- 📄 Know about my experiences **https://drive.google.com/file/d/1n-o81wn7DLC1eGfUKjJb3DqKl5eNlGKs/view?usp=drive_link**
+- 📄 Know about my experiences **https://docs.google.com/document/d/1tSaZ_hQDX4Gk89ft2EJPmdt6qbp_R4zO/edit?usp=sharing&ouid=101168886293374386714&rtpof=true&sd=true**
 
 <div> <a href="https://twitter.com/@RANVEER_K07" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/ranveer-kumar-12050a247" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
