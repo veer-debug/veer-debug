@@ -1,60 +1,72 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1 align="center">Hi 👋, I'm Ranveer Kumar</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=veer-debug&label=Profile%20views&color=0e75b6&style=flat" alt="veer-debug" /> </p>
+<h1 align="center">Hi, I'm Ranveer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+<h3 align="center">Data Scientist | Web Developer | Tech Enthusiast</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=veer-debug&theme=radical" alt="veer-debug" /></a> </p>
-
-- 🌱 I’m currently learning **Data science**
-- 💬 Ask me about **Data science, Competitive programming ,MySql**
-- 📫 How to reach me **20211468@sbsstc.ac.in**
-- 📄 Know about my experiences **https://drive.google.com/file/d/1RBVgDGfxoQ8vjvuBNfZwbrByLquDwRmZ/view?usp=sharing**
-
-<div> <a href="https://twitter.com/@RANVEER_K07" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/ranveer-kumar-12050a247" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/veer-debug" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href = "mailto:20211468@sbsstc.ac.in"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@RANVEER_K07" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="@RANVEER_K07" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/ranveer-kumar-12050a247" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ranveer-kumar-12050a247" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/theveer07ranveer" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hackerrank.svg" alt="@theveer07ranveer" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/20211468" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="20211468" height="30" width="40" /></a></p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/cplusplus-original.svg" alt="CPP" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/tailwindcss-icon.svg" alt="Tailwindcss" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Framework/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/Scikit_learn_logo_small.svg" alt="Scikit" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/logo-mark-lightbg.svg" alt="SeaBorn" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/opencv-icon.svg" alt="Opencv" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/pytorch-icon.svg" alt="Pytorch" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/tensorflow-icon.svg" alt="Tensorflow" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ranveer&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veer-debug&hide_progress=true&theme=merko" alt=veer-debug />
+---
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=veer-debug&show_icons=true&locale=en&theme=merko" alt="veer-debug" /></p>
+### 🚀 About Me
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
-<div align="center">
-<a href="https://github.com/veer-debug">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=veer-debug&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=veer-debug&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=veer-debug&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=veer-debug&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=veer-debug&theme=discord_old_blurple" height="180em" />
-</div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=veer-debug&theme=react-dark"/>
+- 🎓 B.Tech CSE at **Shaheed Bhagat Singh State University**
+- 📚 Currently working on: **Automate_Assignment & Job Scraper**
+- 📚 Completed internships at: **Alphanumeric Ideas (Web Development), Sabhud Foundation (Data Science)**
+- 🎮 Interests: **Machine Learning, Web Development, Competitive Coding**
+- 🌟 Global Rank **150** on CodeChef (Sep23D)
+- 📘 Certifications: **Machine Learning, Google Cloud, Linux**
 
+---
 
+### 🛠️ Tech Stack
+
+- **Languages:** Python, C++, SQL
+- **Machine Learning:** Scikit-Learn, TensorFlow, Hugging Face
+- **Web Development:** Flask, Streamlit, React, HTML/CSS
+- **Tools:** Git, Docker, VS Code, Linux
+
+---
+
+### 🔥 My Projects
+
+- **[Automated Attendance System](https://github.com/ranveer/automated-attendance)**
+- **[Spam Classification](https://github.com/ranveer/spam-classifier)**
+- **[Car Price Prediction](https://github.com/ranveer/car-price-prediction)**
+- **[Match My Mention](https://github.com/ranveer/match-my-mention)**
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ranveer&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ranveer&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🤝 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ranveer/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" /></a>
+  <a href="mailto:ranveer@example.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail" /></a>
+  <a href="https://www.codechef.com/users/ranveer"><img src="https://img.shields.io/badge/CodeChef-brown?logo=codechef" /></a>
+</p>
+
+---
+
+### 📚 Latest Blog Posts
+
+- [Machine Learning for Beginners](https://medium.com/@ranveer/ml-for-beginners)
+- [Web Scraping with Python](https://medium.com/@ranveer/web-scraping)
+
+---
+
+<details>
+  <summary>📈 GitHub Activity</summary>
+  <img src="https://activity-graph.herokuapp.com/graph?username=ranveer&theme=react-dark" alt="GitHub Contribution Graph" />
+</details>
+
+---
+
+*Let's connect and collaborate!* 🚀
