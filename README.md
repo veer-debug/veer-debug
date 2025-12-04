@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Ranveer Kumar</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=veer-debug&label=Profile%20views&color=0e75b6&style=flat" alt="veer-debug" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=veer-debug&theme=radical" alt="veer-debug" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://ranveer-kumar.vercel.app//?username=veer-debug&theme=radical" alt="veer-debug" /></a> </p>
 
 - 🌱 I’m currently learning **Data science**
 - 💬 Ask me about **Data science, Competitive programming ,MySql**
-- 📫 How to reach me **20211468@sbsstc.ac.in**
+- 📫 How to reach me **ranveep097@gmail.com**
 - 📄 Know about my experiences **https://drive.google.com/file/d/1iwX-8obVGHdDQtIgj67Mc3u4Qhu0jGfw/view?usp=drivesdk**
 
 <div> <a href="https://twitter.com/@RANVEER_K07" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/ranveer-kumar-12050a247" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/veer-debug" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href = "mailto:20211468@sbsstc.ac.in"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:ranveep097@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@RANVEER_K07" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="@RANVEER_K07" height="30" width="40" /></a>
@@ -36,7 +36,6 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/pytorch-icon.svg" alt="Pytorch" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/tensorflow-icon.svg" alt="Tensorflow" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
 
 <h3 align="left">Stars</h3>
