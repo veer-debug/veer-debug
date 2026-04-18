@@ -1,6 +1,7 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=378ADD&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ranveer+Kumar+%F0%9F%91%8B;AI+%7C+ML+Engineer+%7C+LLMs+%7C+RAG+Pipelines;Competitive+Programmer+%7C+Knight+on+LeetCode" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=378ADD&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Ranveer+Kumar!;AI+%26+ML+Engineer;LLMs+%7C+RAG+%7C+AI+Agents;Knight+on+LeetCode+%282085%29" alt="Typing SVG" />
+</div>
 
   <p><b>Member of Technical Staff @ Octro Inc. · AI/ML Engineer · Competitive Programmer</b><br/>
   Building intelligent systems with LLMs, RAG, LangChain, and Machine Learning.</p>
