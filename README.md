@@ -46,6 +46,7 @@ ranveer = {
 | 🟢 **Member of Technical Staff** | Octro Inc., Noida | Jul 2025 – Present |
 | 🔵 AI/ML Intern | TOD-SMA, California (Remote) | Apr 2025 – Jul 2025 |
 | 🔵 AI/ML Intern | Damsonic, Bihar | Jan 2025 – Jun 2025 |
+| 🔵 Data science Intern | Sabudh Foundation, Mohali,Punjab | Jun 2024 – Dec 2024 |
 
 **Highlights:**
 - Built AI-powered analytics system processing **natural-language queries** to analyse databases & generate visual insights
