@@ -1,56 +1,159 @@
-<h1 align="center">Hi 👋, I'm Ranveer Kumar</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=veer-debug&label=Profile%20views&color=0e75b6&style=flat" alt="veer-debug" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://ranveer-kumar.vercel.app//?username=veer-debug&theme=radical" alt="veer-debug" /></a> </p>
-
-- 🌱 I’m currently learning **Data science**
-- 💬 Ask me about **Data science, Competitive programming ,MySql**
-- 📫 How to reach me **ranveep097@gmail.com**
-- 📄 Know about my experiences **https://drive.google.com/file/d/1iwX-8obVGHdDQtIgj67Mc3u4Qhu0jGfw/view?usp=drivesdk**
-
-<div> <a href="https://twitter.com/@RANVEER_K07" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/ranveer-kumar-12050a247" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/veer-debug" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href = "mailto:ranveep097@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@RANVEER_K07" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="@RANVEER_K07" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/ranveer-kumar-12050a247" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ranveer-kumar-12050a247" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/theveer07ranveer" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hackerrank.svg" alt="@theveer07ranveer" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/20211468" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="20211468" height="30" width="40" /></a></p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/cplusplus-original.svg" alt="CPP" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/tailwindcss-icon.svg" alt="Tailwindcss" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Framework/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/Scikit_learn_logo_small.svg" alt="Scikit" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/logo-mark-lightbg.svg" alt="SeaBorn" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/opencv-icon.svg" alt="Opencv" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/pytorch-icon.svg" alt="Pytorch" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/tensorflow-icon.svg" alt="Tensorflow" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-</p>
-
-<h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veer-debug&hide_progress=true&theme=merko" alt=veer-debug />
-
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=veer-debug&show_icons=true&locale=en&theme=merko" alt="veer-debug" /></p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<!-- Header -->
 <div align="center">
-<a href="https://github.com/veer-debug">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=veer-debug&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=veer-debug&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=veer-debug&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=veer-debug&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=veer-debug&theme=discord_old_blurple" height="180em" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=378ADD&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ranveer+Kumar+%F0%9F%91%8B;AI+%7C+ML+Engineer+%7C+LLMs+%7C+RAG+Pipelines;Competitive+Programmer+%7C+Knight+on+LeetCode" alt="Typing SVG" />
+
+  <p><b>Member of Technical Staff @ Octro Inc. · AI/ML Engineer · Competitive Programmer</b><br/>
+  Building intelligent systems with LLMs, RAG, LangChain, and Machine Learning.</p>
+
+  <p>
+    <a href="https://www.linkedin.com/in/ranveer/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
+    <a href="https://github.com/veer-debug"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>&nbsp;
+    <a href="https://twitter.com/@RANVEER_K07"><img src="https://img.shields.io/badge/Twitter-1D9BF0?style=flat-square&logo=twitter&logoColor=white"/></a>&nbsp;
+    <a href="https://www.leetcode.com/20211468"><img src="https://img.shields.io/badge/LeetCode_Knight_2085-FFA116?style=flat-square&logo=leetcode&logoColor=black"/></a>&nbsp;
+    <a href="https://www.hackerrank.com/theveer07ranveer"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=black"/></a>&nbsp;
+    <a href="mailto:ranveep097@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+  </p>
+  <img src="https://komarev.com/ghpvc/?username=veer-debug&style=flat-square&color=378ADD&label=profile+views"/>
 </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=veer-debug&theme=react-dark"/>
+
+---
+
+## About Me
+
+```python
+ranveer = {
+    "role"      : "Member of Technical Staff @ Octro Inc.",
+    "focus"     : ["LLMs", "RAG Pipelines", "AI Agents", "Machine Learning"],
+    "languages" : ["Python", "C/C++", "JavaScript", "SQL"],
+    "currently" : "Building AI analytics systems & agent-based workflows in production",
+    "cp_rating" : {"LeetCode": "2085 (Knight)", "Codeforces": "1374 (Pupil)"},
+    "contact"   : "ranveep097@gmail.com"
+}
+```
+
+- 🤖 Working on **AI-powered analytics**, **RAG pipelines**, and **LLM-based agents** at Octro Inc.
+- 🏆 LeetCode **Knight** with max rating **2085** — consistently solving hard problems
+- 🎓 B.Tech Computer Science — Shaheed Bhagat Singh State University (CGPA: 7.5)
+- 🥉 **3rd place** — NCC Inter-Group Sport Shooting Competition 2023
+- 📄 [View my Resume](https://drive.google.com/file/d/1iwX-8obVGHdDQtIgj67Mc3u4Qhu0jGfw/view?usp=drivesdk)
+
+---
+
+## Experience
+
+| Role | Company | Duration |
+|------|---------|----------|
+| 🟢 **Member of Technical Staff** | Octro Inc., Noida | Jul 2025 – Present |
+| 🔵 AI/ML Intern | TOD-SMA, California (Remote) | Apr 2025 – Jul 2025 |
+| 🔵 AI/ML Intern | Damsonic, Bihar | Jan 2025 – Jun 2025 |
+
+**Highlights:**
+- Built AI-powered analytics system processing **natural-language queries** to analyse databases & generate visual insights
+- Automated customer support reducing manual effort by **40%**, improving accuracy by **35%**
+- Achieved **10% improvement in F1-score** via feature engineering & hyperparameter tuning on ML models
+- Worked with: `RAG` `LangChain` `LangGraph` `YOLO` `OCR` `LLMs` `MCP` `Twilio` `Computer Vision`
+
+---
+
+## Projects
+
+### 🤖 AI Voice Support Agent
+> AI-powered calling agent for automated customer support — schedules appointments for education, healthcare & enterprise.
+
+`MCP` `LLMs` `Twilio` `LangChain` `FastAPI` `RAG` `SQL`
+
+---
+
+### 🏠 Match My Mansion — Real Estate Web App &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/veer-debug)
+> AI-powered real estate analytics platform predicting property prices with personalized investment recommendations.
+
+`Python` `Flask` `Random Forest` `Selenium` `BeautifulSoup` `MySQL` `Tailwind CSS`
+
+---
+
+## Tech Stack
+
+**AI & ML**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-378ADD?style=flat-square&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-AA0000?style=flat-square&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=flat-square&logoColor=white)
+
+**Languages & Backend**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+**Data & Database**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
+
+**Web & Tools**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=veer-debug&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veer-debug&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=veer-debug&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+</div>
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=veer-debug&theme=tokyonight" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=veer-debug&theme=tokyonight" height="160em"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=veer-debug&theme=tokyonight" height="160em"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=veer-debug&theme=tokyonight" height="160em"/>
+</div>
+
+---
+
+## Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=veer-debug&theme=tokyo-night&hide_border=true&area=true"/>
+</div>
+
+---
+
+## Achievements
+
+🏅 **LeetCode Knight** — Max rating **2085** &nbsp;|&nbsp; 🎯 **Codeforces Pupil** — Max rating **1374**
+
+🎖️ **NCC B Certificate** holder with 'B' grade &nbsp;|&nbsp; 🥉 **3rd place** — NCC Inter-Group Sport Shooting 2023
+
+---
+
+<div align="center">
+  <i>"First, solve the problem. Then, write the code."</i><br/><br/>
+  <b>Open to collaborations · Always learning · Building in public</b>
+</div>
