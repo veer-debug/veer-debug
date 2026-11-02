@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="304" viewBox="0 0 420 304">
+<rect width="420" height="304" rx="10" fill="#1a1b27"/>
+<text x="25" y="38" font-family="Segoe UI,Ubuntu,sans-serif" font-size="18" font-weight="700" fill="#70a5fd">veer-debug's GitHub Stats</text>
+<circle cx="32" cy="67" r="4" fill="#bf91f3"/>
+<text x="48" y="72" font-family="Segoe UI,Ubuntu,sans-serif" font-size="14" fill="#c0caf5">Public repos</text>
+<text x="390" y="72" text-anchor="end" font-family="Segoe UI,Ubuntu,sans-serif" font-size="14" font-weight="700" fill="#70a5fd">30</text>
+<circle cx="32" cy="93" r="4" fill="#bf91f3"/>
+<text x="48" y="98" font-family="Segoe UI,Ubuntu,sans-serif" font-size="14" fill="#c0caf5">Total stars</text>
+<text x="390" y="98" text-anchor="end" font-family="Segoe UI,Ubuntu,sans-serif" font-size="14" font-weight="700" fill="#70a5fd">43</text>
+<circle cx="32" cy="119" r="4" fill="#bf91f3"/>
+<text x="48" y="124" font-family="Segoe UI,Ubuntu,sans-serif" font-size="14" fill="#c0caf5">Total forks</text>
+<text x="390" y="124" text-anchor="end" font-family="Segoe UI,Ubuntu,sans-serif" font-size="14" font-weight="700" fill="#70a5fd">0</text>
+<circle cx="32" cy="145" r="4" fill="#bf91f3"/>
+<text x="48" y="150" font-family="Segoe UI,Ubuntu,sans-serif" font-size="14" fill="#c0caf5">Followers</text>
+<text x="390" y="150" text-anchor="end" font-family="Segoe UI,Ubuntu,sans-serif" font-size="14" font-weight="700" fill="#70a5fd">4</text>
+<circle cx="32" cy="171" r="4" fill="#bf91f3"/>
+<text x="48" y="176" font-family="Segoe UI,Ubuntu,sans-serif" font-size="14" fill="#c0caf5">Commits (last year)</text>
+<text x="390" y="176" text-anchor="end" font-family="Segoe UI,Ubuntu,sans-serif" font-size="14" font-weight="700" fill="#70a5fd">41</text>
+<circle cx="32" cy="197" r="4" fill="#bf91f3"/>
+<text x="48" y="202" font-family="Segoe UI,Ubuntu,sans-serif" font-size="14" fill="#c0caf5">Pull requests</text>
+<text x="390" y="202" text-anchor="end" font-family="Segoe UI,Ubuntu,sans-serif" font-size="14" font-weight="700" fill="#70a5fd">1</text>
+<circle cx="32" cy="223" r="4" fill="#bf91f3"/>
+<text x="48" y="228" font-family="Segoe UI,Ubuntu,sans-serif" font-size="14" fill="#c0caf5">Issues opened</text>
+<text x="390" y="228" text-anchor="end" font-family="Segoe UI,Ubuntu,sans-serif" font-size="14" font-weight="700" fill="#70a5fd">0</text>
+<circle cx="32" cy="249" r="4" fill="#bf91f3"/>
+<text x="48" y="254" font-family="Segoe UI,Ubuntu,sans-serif" font-size="14" fill="#c0caf5">Code reviews</text>
+<text x="390" y="254" text-anchor="end" font-family="Segoe UI,Ubuntu,sans-serif" font-size="14" font-weight="700" fill="#70a5fd">0</text>
+<circle cx="32" cy="275" r="4" fill="#bf91f3"/>
+<text x="48" y="280" font-family="Segoe UI,Ubuntu,sans-serif" font-size="14" fill="#c0caf5">Contributions (last year)</text>
+<text x="390" y="280" text-anchor="end" font-family="Segoe UI,Ubuntu,sans-serif" font-size="14" font-weight="700" fill="#70a5fd">134</text>
+</svg>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="214" viewBox="0 0 420 214">
+<rect width="420" height="214" rx="10" fill="#1a1b27"/>
+<text x="25" y="38" font-family="Segoe UI,Ubuntu,sans-serif" font-size="18" font-weight="700" fill="#70a5fd">Top Languages</text>
+<clipPath id="b"><rect x="25" y="55" width="370" height="10" rx="5"/></clipPath><g clip-path="url(#b)">
+<rect x="25.0" y="55" width="259.8" height="10" fill="#3572A5"/>
+<rect x="284.8" y="55" width="101.6" height="10" fill="#DA5B0B"/>
+<rect x="386.4" y="55" width="2.0" height="10" fill="#555555"/>
+<rect x="388.4" y="55" width="2.0" height="10" fill="#e34c26"/>
+<rect x="390.4" y="55" width="1.9" height="10" fill="#3178c6"/>
+<rect x="392.3" y="55" width="1.6" height="10" fill="#f1e05a"/>
+<rect x="393.9" y="55" width="0.5" height="10" fill="#fedf5b"/>
+<rect x="394.5" y="55" width="0.5" height="10" fill="#f34b7d"/>
+</g>
+<circle cx="30" cy="95" r="5" fill="#3572A5"/>
+<text x="41" y="100" font-family="Segoe UI,Ubuntu,sans-serif" font-size="13" fill="#c0caf5">Python <tspan fill="#7982a9">70.2%</tspan></text>
+<circle cx="220" cy="95" r="5" fill="#DA5B0B"/>
+<text x="231" y="100" font-family="Segoe UI,Ubuntu,sans-serif" font-size="13" fill="#c0caf5">Jupyter Notebook <tspan fill="#7982a9">27.5%</tspan></text>
+<circle cx="30" cy="121" r="5" fill="#555555"/>
+<text x="41" y="126" font-family="Segoe UI,Ubuntu,sans-serif" font-size="13" fill="#c0caf5">C <tspan fill="#7982a9">0.5%</tspan></text>
+<circle cx="220" cy="121" r="5" fill="#e34c26"/>
+<text x="231" y="126" font-family="Segoe UI,Ubuntu,sans-serif" font-size="13" fill="#c0caf5">HTML <tspan fill="#7982a9">0.5%</tspan></text>
+<circle cx="30" cy="147" r="5" fill="#3178c6"/>
+<text x="41" y="152" font-family="Segoe UI,Ubuntu,sans-serif" font-size="13" fill="#c0caf5">TypeScript <tspan fill="#7982a9">0.5%</tspan></text>
+<circle cx="220" cy="147" r="5" fill="#f1e05a"/>
+<text x="231" y="152" font-family="Segoe UI,Ubuntu,sans-serif" font-size="13" fill="#c0caf5">JavaScript <tspan fill="#7982a9">0.4%</tspan></text>
+<circle cx="30" cy="173" r="5" fill="#fedf5b"/>
+<text x="41" y="178" font-family="Segoe UI,Ubuntu,sans-serif" font-size="13" fill="#c0caf5">Cython <tspan fill="#7982a9">0.1%</tspan></text>
+<circle cx="220" cy="173" r="5" fill="#f34b7d"/>
+<text x="231" y="178" font-family="Segoe UI,Ubuntu,sans-serif" font-size="13" fill="#c0caf5">C++ <tspan fill="#7982a9">0.1%</tspan></text>
+</svg>
