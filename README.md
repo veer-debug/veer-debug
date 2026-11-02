@@ -74,8 +74,8 @@ flowchart LR
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=veer-debug&show_icons=true&theme=tokyonight&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=veer-debug&layout=compact&theme=tokyonight&hide_border=true)
+<img src="profile/stats.svg" alt="GitHub stats" width="48%" />
+<img src="profile/top-langs.svg" alt="Top languages" width="48%" />
 
 </div>
 
