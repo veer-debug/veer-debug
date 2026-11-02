@@ -23,7 +23,10 @@ def fetch():
         headers={"Authorization": f"bearer {TOKEN}", "User-Agent": "stats-gen"},
     )
     with urllib.request.urlopen(req, timeout=30) as r:
-        return json.load(r)["data"]["user"]
+        body = json.load(r)
+    if "data" not in body or not body["data"].get("user"):
+        raise SystemExit("GraphQL error: " + json.dumps(body)[:800])
+    return body["data"]["user"]
 
 
 def stats_svg(u):
