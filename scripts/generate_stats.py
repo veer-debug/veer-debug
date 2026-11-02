@@ -9,7 +9,7 @@ QUERY = """query($login:String!){user(login:$login){
  contributionsCollection{totalCommitContributions totalPullRequestContributions
   totalIssueContributions totalPullRequestReviewContributions
   contributionCalendar{totalContributions}}
- repositories(ownerAffiliation:OWNER,isFork:false,first:100,privacy:PUBLIC){totalCount
+ repositories(ownerAffiliations:OWNER,isFork:false,first:100,privacy:PUBLIC){totalCount
   nodes{stargazerCount forkCount
    languages(first:10,orderBy:{field:SIZE,direction:DESC}){edges{size node{name color}}}}}}}"""
 
